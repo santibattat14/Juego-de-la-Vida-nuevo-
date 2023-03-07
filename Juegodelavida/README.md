@@ -23,6 +23,12 @@ sentencia:
 ```console
 make html
 ```
+## Cómo ejecutar el programa con make
+
+```console
+make jugar
+```
+
 
 ## Estructura del código
 

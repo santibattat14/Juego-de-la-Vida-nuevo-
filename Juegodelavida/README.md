@@ -33,7 +33,7 @@ make jugar
 ## Estructura del código
 
 Tal y como muestra la siguiente figura
-![diagrama UML](diagrama_clases.png)
+![diagrama UML](https://user-images.githubusercontent.com/115775737/222677046-f9561ac8-a0fe-46c8-aa01-add740ab3e62.png)
 
 existen dos clases: `Tablero.java`, en el paquete `dominio`, que
 contiene el método que realiza la simulación; y `Principal.java`, en el
